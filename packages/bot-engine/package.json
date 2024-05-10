@@ -28,7 +28,7 @@
     "ky": "1.2.3",
     "libphonenumber-js": "1.10.37",
     "node-html-parser": "6.1.5",
-    "nodemailer": "6.9.8",
+    "nodemailer": "6.9.9",
     "openai": "4.38.3",
     "qs": "6.11.2",
     "stripe": "12.13.0"
